@@ -7,5 +7,3 @@
 - Passion for designing beautiful and functional user experience also focuses on writing clean, elegant, and efficient code.
 
 for more about me, please visit https://arief-fajri.github.com
-
-Thank you for visiting...
