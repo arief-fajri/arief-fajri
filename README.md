@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/arief_"><img src="https://api.daily.dev/devcards/1afeb602efed4d5cb22f5216ba098bb5.png?r=vhw" width="400" alt="Arief Fajri's Dev Card"/></a>
+
 
 👋 Hi, I’m @arief-fajri
 
@@ -9,3 +9,30 @@
 - Passion for designing beautiful and functional user experience also focuses on writing clean, elegant, and efficient code.
 
 for more about me, please visit https://arief-fajri.github.com
+
+
+   
+# Hi there 👋
+
+<div align="left">
+  <a href="https://twitter.com/omBratteng">
+    <img
+      src="https://img.shields.io/twitter/follow/omBratteng?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="Twitter"
+    />
+  </a>
+  <a href="https://github.com/omBratteng">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://app.daily.dev/arief_" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://raw.githubusercontent.com/omBratteng/omBratteng/devcard/devcard.svg"
+    />
+  </a>
+</div>
