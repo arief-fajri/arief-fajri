@@ -5,7 +5,7 @@
     <img
       width="256"
       align="left"
-      src="https://github.com/arief-fajri/arief-fajri/blob/master/devcard.svg"
+      src="https://github.com/arief-fajri/arief-fajri/blob/main/devcard.svg"
          alt="arief-fajri"
     />
   </a>
