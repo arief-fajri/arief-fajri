@@ -5,9 +5,11 @@
     <img
       width="256"
       align="left"
-      src="https://api.daily.dev/devcards/1afeb602efed4d5cb22f5216ba098bb5.png?r=4a5"
+      src="https://github.com/arief-fajri/arief-fajri/blob/master/devcard.svg"
+         alt="arief-fajri"
     />
   </a>
+  
 </div>
 
 ## I’m @arief-fajri
